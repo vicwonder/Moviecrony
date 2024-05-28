@@ -1,0 +1,11 @@
+.trending-container{
+    display: grid;
+    margin: 4% 20%;
+    color: #ffffff;
+   
+    .cards{
+        display: flex;
+        justify-content: space-between;
+        
+    }
+}

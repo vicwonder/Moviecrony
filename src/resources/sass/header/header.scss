@@ -1,0 +1,23 @@
+.header-container{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between ;
+    margin: 0px 10%;
+    .header-icon{
+        color: #ffffff;
+        font-size: 20px;
+    }
+    .header-search{
+        input{
+            background-color: #0B0B0B;
+            color: #585858;
+            width:30vw;
+            height: 2em;
+            border: 1px solid #414141;
+            padding:2px 10px;
+            border-radius: 5px;
+        }
+        
+
+    }
+}
